@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=3 uid="uid://bktr0fex1auxc"]
+
+[ext_resource type="Script" path="res://SERVER_window_main.gd" id="1"]
+
+[node name="node_root" type="Node2D"]
+
+[node name="node_server" type="Node2D" parent="."]
+
+[node name="window_main" type="Node2D" parent="node_server"]
+script = ExtResource("1")
+
+[node name="node_client" type="Node2D" parent="."]
+
+[node name="window_main" type="Node2D" parent="node_client"]
+
+[node name="Debug" type="RichTextLabel" parent="."]
+offset_right = 752.0
+offset_bottom = 240.0
