@@ -1,7 +1,5 @@
 # Welcome to Text-based Multi User Dungeon (MUD) in Godot GDScript!
 
-![MUD Logo](https://example.com/mud_logo.png)
-
 ## Overview
 
 This project is an exciting venture into the realm of text-based multiplayer gaming using the power of Godot 4.2.1! Dive into the immersive world of MUDs where your imagination sets the limits. Developed by [g023](https://github.com/g023), this MUD offers an extensive foundation for building your own virtual world.
